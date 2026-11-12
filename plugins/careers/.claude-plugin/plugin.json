@@ -1,0 +1,9 @@
+{
+  "name": "careers",
+  "description": "Job search skills: job-fit evaluation and more",
+  "version": "0.1.0",
+  "author": {
+    "name": "CorpSkill"
+  },
+  "license": "Apache-2.0"
+}

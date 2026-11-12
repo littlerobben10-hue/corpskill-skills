@@ -1,0 +1,33 @@
+{
+  "name": "corpskill",
+  "owner": {
+    "name": "CorpSkill"
+  },
+  "metadata": {
+    "description": "Official CorpSkill skills, packaged as one plugin per industry.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "real-estate",
+      "source": "./plugins/real-estate",
+      "description": "Real estate skills: lease review and more",
+      "version": "0.1.0",
+      "category": "real-estate"
+    },
+    {
+      "name": "careers",
+      "source": "./plugins/careers",
+      "description": "Job search skills: job-fit evaluation and more",
+      "version": "0.1.0",
+      "category": "careers"
+    },
+    {
+      "name": "private-equity",
+      "source": "./plugins/private-equity",
+      "description": "Private equity skills: due-diligence request lists and more",
+      "version": "0.1.0",
+      "category": "finance"
+    }
+  ]
+}
