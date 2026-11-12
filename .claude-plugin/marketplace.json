@@ -25,7 +25,21 @@
     {
       "name": "private-equity",
       "source": "./plugins/private-equity",
-      "description": "Private equity skills: due-diligence request lists and more",
+      "description": "Private equity skills: due-diligence request lists, distribution waterfalls and more",
+      "version": "0.1.0",
+      "category": "finance"
+    },
+    {
+      "name": "investment-banking",
+      "source": "./plugins/investment-banking",
+      "description": "Investment banking skills: committee memos, deal case studies and more",
+      "version": "0.1.0",
+      "category": "finance"
+    },
+    {
+      "name": "finance-operations",
+      "source": "./plugins/finance-operations",
+      "description": "Finance operations skills: regulatory filing preparation and more",
       "version": "0.1.0",
       "category": "finance"
     }
