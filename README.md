@@ -9,7 +9,7 @@ Agent skills built by [CorpSkill](https://corpskill.app), packaged as one Claude
 /plugin install real-estate@corpskill
 ```
 
-Available plugins: `real-estate`, `careers`, `private-equity`, `investment-banking`, `finance-operations`.
+Available plugins: `real-estate`, `careers`, `private-equity`, `investment-banking`, `finance-operations`, `asset-management`, `banking`, `wealth-management`, `equity-research`.
 
 ## Use elsewhere
 

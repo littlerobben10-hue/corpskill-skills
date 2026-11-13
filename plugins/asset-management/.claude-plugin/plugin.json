@@ -1,0 +1,9 @@
+{
+  "name": "asset-management",
+  "description": "Asset management skills: fund fees, DDQ responses, fund terms and more",
+  "version": "0.1.0",
+  "author": {
+    "name": "CorpSkill"
+  },
+  "license": "Apache-2.0"
+}

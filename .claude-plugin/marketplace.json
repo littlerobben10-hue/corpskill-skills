@@ -42,6 +42,34 @@
       "description": "Finance operations skills: regulatory filing preparation and more",
       "version": "0.1.0",
       "category": "finance"
+    },
+    {
+      "name": "asset-management",
+      "source": "./plugins/asset-management",
+      "description": "Asset management skills: fund fees, DDQ responses, fund terms and more",
+      "version": "0.1.0",
+      "category": "finance"
+    },
+    {
+      "name": "banking",
+      "source": "./plugins/banking",
+      "description": "Commercial banking skills: credit memos and more",
+      "version": "0.1.0",
+      "category": "finance"
+    },
+    {
+      "name": "wealth-management",
+      "source": "./plugins/wealth-management",
+      "description": "Wealth management skills: suitability assessment and more",
+      "version": "0.1.0",
+      "category": "finance"
+    },
+    {
+      "name": "equity-research",
+      "source": "./plugins/equity-research",
+      "description": "Equity research skills: research compliance checks and more",
+      "version": "0.1.0",
+      "category": "finance"
     }
   ]
 }

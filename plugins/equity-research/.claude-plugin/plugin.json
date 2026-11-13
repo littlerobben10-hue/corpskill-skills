@@ -1,0 +1,9 @@
+{
+  "name": "equity-research",
+  "description": "Equity research skills: research compliance checks and more",
+  "version": "0.1.0",
+  "author": {
+    "name": "CorpSkill"
+  },
+  "license": "Apache-2.0"
+}
